@@ -83,5 +83,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Thanks to Google for providing the Gemini API. Special thanks to the contributors and the community for their support.
 
 Created by: Sanjay Singh Kunwar
+
 Email: sanjaykunwar24@gmail.com
 
